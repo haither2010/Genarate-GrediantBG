@@ -1,0 +1,35 @@
+body {
+	padding: 0;
+	margin: 0;
+	/*background-color: linear-gradient(to right, red, blue);*/
+	background-image: linear-gradient(to right, #009900 , #ff00ff);
+}
+
+h1 {
+	text-align: center;
+	color: #4bc4e2;
+	padding: 20px;
+	font-size: 3rem;
+	letter-spacing: .2em;
+	font-family: 'Lobster', cursive;
+}
+
+h2 {
+	letter-spacing: .2em;
+	color: #ccc;
+}
+
+h3{
+	color: #ccc;
+}
+
+.input{
+	margin: auto;
+	width: 25%;
+	height: 50px;
+}
+
+.container{
+	margin: auto;
+	width: 50%;
+}
